@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-image: url("Background.png");
+    background-size: cover;
+}
+h1{
+    font-family: 'Rubik Pixels', cursive;
+    color: #247e7a;
+    background-color: #689aca;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#Edit_me{
+    border-radius: 60px;
+    background-color: #d6eafe;
+    border: 0px;
+    height: 125px;
+    width: 250px;
+    color: #0061c1;
+    font-size: 50px;
+    font-family: 'Rubik Pixels', cursive;
+    position: fixed;
+    bottom: 300px;
+    margin-left: 118px;
+}
